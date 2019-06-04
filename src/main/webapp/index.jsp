@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Jenkins First Project Successfuly Created !!!!!</h2>
+<h2>Jenkins First Project Successfully Created !!!!!</h2>
 </body>
 </html>
