@@ -38,7 +38,6 @@
 		<input type="Hidden" name="hdnUserId">
 		<input type="Hidden" name="hdnSolId">
           <tr align="left" valign="top">
-            <td align="center" valign="middle"><a href='javascript:logout("<%=sUserId%>","<%=sSolId%>")'><img src="../../images/finaclemenu.gif" width="97" height="18" border="0"></a></td>
             <td align="center" valign="middle">&nbsp;</td>
           </tr>
 <!--	<iframe width="700" height="48" src="gbm_message_marquee.jsp"></iframe> -->
